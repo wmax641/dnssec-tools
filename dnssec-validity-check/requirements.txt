@@ -1,0 +1,5 @@
+dnspython
+#pycryptodome
+pycryptodomex
+ecdsa
+
